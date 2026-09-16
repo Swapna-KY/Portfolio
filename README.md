@@ -1,7 +1,5 @@
 # Swapna K Y - Personal Portfolio
 
-![Portfolio Preview](profile.jpg)
-
 A modern, responsive personal portfolio website built to showcase my skills, projects, education, and experience as a Computer Science Engineering student and Developer.
 
 ## 🚀 Live Demo
