@@ -1627,7 +1627,7 @@
           <button class="filter-btn" data-filter="iot">IoT</button>
         </div>
 
-        <div class="projects-grid reveal" id="projectsGrid">
+        <div class="projects-grid" id="projectsGrid">
 
           <!-- PROJECT 1: CareerAI -->
           <article class="proj-card" data-tags="fullstack ml backend">
@@ -2174,7 +2174,7 @@
     const revealEls = document.querySelectorAll('.reveal');
     const io = new IntersectionObserver((entries) => {
       entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
-    }, { threshold: 0.12 });
+    }, { threshold: 0, rootMargin: '0px 0px -60px 0px' });
     revealEls.forEach(el => io.observe(el));
 
     // Project filters
