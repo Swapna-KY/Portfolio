@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website built to showcase my skills, projects, education, and experience as a Computer Science Engineering student and Developer.
 
 ## 🚀 Live Demo
-**👉 [View Live Portfolio](https://Swapna-KY.github.io/Portfolio/)**
+**👉 [View Live Portfolio](https://swapna-ky.github.io/Portfolio/)**
 
 ## ✨ Features
 * **Modern & Premium Design:** Dark mode aesthetics with glassmorphism effects, smooth gradients, and micro-animations.
